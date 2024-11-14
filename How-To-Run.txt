@@ -1,0 +1,6 @@
+1. Download the Repository
+2. Extract .zip file of the Repository in your Downloads
+3. Download Python IDLE or your preffered python IDE
+4. After Download use pip from command prompt to Download the requirement libraries present in the requirements file.
+5. Double click main.py to launch the application and Download multiple Movies and Web-Series with Ease.
+6. The App will Download the .torrent file of the movie's which will run on any torrent application like qBittorrent.
